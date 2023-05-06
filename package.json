@@ -1,0 +1,27 @@
+{
+  "name": "mission_is_possible",
+  "version": "1.0.0",
+  "description": "MERN Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliasut/mission_is_possible.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliasut/mission_is_possible/issues"
+  },
+  "homepage": "https://github.com/juliasut/mission_is_possible#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
